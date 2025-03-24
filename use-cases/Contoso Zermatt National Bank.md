@@ -1,4 +1,4 @@
-# ![A house in Roanoke Star AI-generated content may be incorrect.](./media/image1.png){width="6.268055555555556in" height="6.115277777777778in"}
+# ![A house in Roanoke Star AI-generated content may be incorrect.](./media/image1.png)
 
 # Contoso Zermatt National Bank
 

@@ -8,6 +8,9 @@ cd use-cases
 
 for file in ../library/*.docx
 do
-    pandoc -f docx -t markdown "$file" -o "$(basename """$file""" .docx).md" --extract-media ./
+    output=$(basename """$file""" .docx).md
+    pandoc -f docx -t markdown "$file" -o "${output}" --extract-media ./
+    # remove {width=...} from images
+    sed -i 's/\(.*\){width=.*}/\1/g' "${output}"    
 done
 
