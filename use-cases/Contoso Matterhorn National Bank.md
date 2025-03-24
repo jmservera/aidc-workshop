@@ -142,6 +142,149 @@ following requirements:
 
 ## Personas
 
+### James Carter
+
+> Building trusted relationships with clients is paramount, but
+> efficiency should enhance rather than hinder this process.
+
+#### Pain Points
+
+-   **Inefficiency in the initial financial assessment process**
+
+    -   **Recent Experience:** Spent over 10 hours gathering redundant
+        information for a new client.
+
+    -   **Impact:** Slows down client onboarding, leading to frustration
+        and possible client attrition.
+
+    -   **Importance Score:** 8
+
+    -   **Current Strategies:** Manual review of historical data and
+        lengthy interviews with clients.
+
+    -   **Current Challenges:** Data collection is time-consuming and
+        prone to human error.
+
+    -   **Satisfaction Score:** 5
+
+    -   **Opportunity Score:** 9
+
+    -   **Additional Challenges:** Lack of integration between various
+        data systems.
+
+    -   **Desired Solution:** A centralized digital platform for
+        seamless and efficient data collection.
+
+-   **Difficulty maintaining personalized service with growing client
+    base**
+
+    -   **Recent Experience:** Missed sending a birthday message to one
+        of his VIP clients.
+
+    -   **Impact:** Impacts personal relationship and client retention.
+
+    -   **Importance Score:** 9
+
+    -   **Current Strategies:** Using a spreadsheet to track important
+        client milestones.
+
+    -   **Current Challenges:** High potential for oversight and
+        inability to scale with growing numbers.
+
+    -   **Satisfaction Score:** 4
+
+    -   **Opportunity Score:** 8
+
+    -   **Additional Challenges:** Balancing personalization with scale
+        in communications.
+
+    -   **Desired Solution:** Automated CRM system with reminders and
+        personalized messaging capabilities.
+
+#### Behaviors
+
+-   Detail-oriented
+
+-   Proactively communicates with clients
+
+-   Continuously updates knowledge on market trends
+
+#### Job to Be Done
+
+To streamline financial assessments and maintain high-quality client
+relationships as the client base expands.
+
+### Emily Zhang
+
+> Comprehending and adapting to regulatory landscapes is critical, yet
+> poses significant operational challenges.
+
+#### Pain Points
+
+-   **Risk management complexities across international regulations**
+
+    -   **Recent Experience:** Spent weeks verifying investment
+        compliance due to new international tax laws.
+
+    -   **Impact:** Delay in implementing client strategies and
+        potential loss of investment opportunities.
+
+    -   **Importance Score:** 10
+
+    -   **Current Strategies:** Regular training and consultation with
+        legal advisors to keep up-to-date.
+
+    -   **Current Challenges:** Frequent changes in international
+        regulations require constant adaptation.
+
+    -   **Satisfaction Score:** 6
+
+    -   **Opportunity Score:** 7
+
+    -   **Additional Challenges:** High-volume of constantly changing
+        information is overwhelming.
+
+    -   **Desired Solution:** Advanced compliance software that is
+        updated in real-time with regulatory changes.
+
+-   **Measuring and acting on customer satisfaction effectively**
+
+    -   **Recent Experience:** Received mixed feedback from a client
+        survey but found the data too generic for action.
+
+    -   **Impact:** Lack of actionable insights to improve services.
+
+    -   **Importance Score:** 7
+
+    -   **Current Strategies:** Annual surveys and follow-up calls to
+        discuss results.
+
+    -   **Current Challenges:** Surveys lack precision and depth,
+        leading to generic feedback.
+
+    -   **Satisfaction Score:** 5
+
+    -   **Opportunity Score:** 6
+
+    -   **Additional Challenges:** Difficult distinguishing between
+        unique client needs through broad surveys.
+
+    -   **Desired Solution:** Sophisticated client feedback analysis
+        tools that offer specific improvement areas.
+
+#### Behaviors
+
+-   Analytical and data-driven
+
+-   Keeps abreast with regulatory changes
+
+-   Fosters communication with technical experts
+
+#### Job to Be Done
+
+To ensure client investment strategies are compliant and customized to
+their needs, while navigating complex regulatory landscapes.
+
 ## Example processes
 
 The following examples illustrate the complexity and importance of

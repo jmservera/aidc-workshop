@@ -8,6 +8,6 @@ cd use-cases
 
 for file in ../library/*.docx
 do
-    pandoc -f docx -t markdown "$file" -o "$(basename """$file""" .docx).markdown" --extract-media ./
+    pandoc -f docx -t markdown "$file" -o "$(basename """$file""" .docx).md" --extract-media ./
 done
 
