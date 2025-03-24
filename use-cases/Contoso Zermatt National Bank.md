@@ -1,17 +1,17 @@
 # ![A house in Roanoke Star AI-generated content may be incorrect.](./media/image1.png){width="6.268055555555556in" height="6.115277777777778in"}
 
-# Contoso Matterhorn National Bank
+# Contoso Zermatt National Bank
 
 ## Company Overview
 
-**Contoso Matterhorn Bank** is a leading financial institution based in
-Zermatt, Switzerland. It operates in the financial services industry,
-providing a range of services related to securities transactions,
-financial information processing, and cashless payment transactions.
+**Contoso Zermatt Bank** is a leading financial institution based in
+Switzerland. It operates in the financial services industry, providing a
+range of services related to securities transactions, financial
+information processing, and cashless payment transactions.
 
 ## Customer Situation
 
-Contoso Matterhorn National Bank is facing significant challenges that
+Contoso Zermatt National Bank is facing significant challenges that
 impact their operations and service delivery. These include the need for
 efficient access and analysis of information, leveraging advanced
 technologies, automating repetitive tasks, ensuring data security and
@@ -29,10 +29,10 @@ secure and efficient service to its employees.
 
 ## Business Challenges
 
-Contoso Matterhorn Bank faces several challenges that need to be
-addressed to improve their operations and service delivery:
+Contoso Zermatt Bank faces several challenges that need to be addressed
+to improve their operations and service delivery:
 
--   **Efficient Access and Analysis of Information**: Contoso Matterhorn
+-   **Efficient Access and Analysis of Information**: Contoso Zermatt
     Bank needs to enhance the efficiency with which its employees can
     access and analyze comprehensive internal information. Currently,
     the process is cumbersome and time-consuming, leading to delays in
@@ -90,7 +90,7 @@ addressed to improve their operations and service delivery:
 
 ## Customer Requirements
 
-To address these challenges, Contoso Matterhorn Bank has outlined the
+To address these challenges, Contoso Zermatt Bank has outlined the
 following requirements:
 
 ### Regulatory Compliance
@@ -289,7 +289,7 @@ their needs, while navigating complex regulatory landscapes.
 
 The following examples illustrate the complexity and importance of
 following detailed processes to ensure compliance and security in
-financial advisory roles at Contoso Matterhorn Bank.
+financial advisory roles at Contoso Zermatt Bank.
 
 Mistakes in these processes can have a big financial impact, both on the
 bank and their customers, and can pose a high risk of credibility loss.
@@ -459,7 +459,7 @@ to prevent financial crimes and protect the bank\'s reputation.
 
 ## Conclusion
 
-Contoso Matterhorn Bank is focused on enhancing employee efficiency and
+Contoso Zermatt Bank is focused on enhancing employee efficiency and
 improving access to information through the implementation of an
 AI-powered platform. By addressing the outlined challenges and meeting
 the specified requirements, the bank aims to streamline operations,
