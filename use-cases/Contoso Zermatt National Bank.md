@@ -142,7 +142,7 @@ following requirements:
 
 ## Personas
 
-### James Carter
+### Louis Cartier
 
 > Building trusted relationships with clients is paramount, but
 > efficiency should enhance rather than hinder this process.
@@ -214,9 +214,9 @@ following requirements:
 To streamline financial assessments and maintain high-quality client
 relationships as the client base expands.
 
-### Emily Zhang
+### Amélie Zhang
 
-> Comprehending and adapting to regulatory landscapes is critical, yet
+> Comprehending and adapting to regulatory landscapes is critical yet
 > poses significant operational challenges.
 
 #### Pain Points
